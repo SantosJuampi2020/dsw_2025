@@ -2,7 +2,7 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 51036 - Santos Juan Pablo
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
